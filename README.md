@@ -2,13 +2,17 @@
 
 🚀 Founder of an advertising agency, web studio, and ad automation startup. Product manager who codes, analyzes campaigns, and implements technical solutions.
 
-💻 Working with **Python**, **Swift**, **Kotlin**, **C++**, **YandexDataLens**, **ClickHouse**, and **RabbitMQ**. Building projects at the intersection of AI and business processes.
+💻 **Tech Stack**:
+- **Backend**: Python, C++, RabbitMQ, PostgreSQL
+- **Mobile**: Swift (iOS), Kotlin (Android)
+- **Analytics**: ClickHouse, Yandex DataLens, Data Pipelines
+- **Automation**: API Integrations, n8n, Custom Workflow Solutions
 
 🌟 Specializing in:
-- 📊 Traffic and sales analytics
-- 📱 Mobile app development
-- 🤖 AI implementation for business
-- 🔄 Business process automation (n8n, APIs)
+- 📊 Traffic and sales analytics at the intersection of advertising and CRM
+- 📱 Mobile app development and cross-platform solutions
+- 🤖 AI implementation for business process optimization
+- 🔄 Marketing automation and data-driven decision making
 
 🔍 Currently developing an LLM-powered system for automated negative keyword processing in contextual advertising to eliminate wasted ad spend and improve campaign efficiency.
 
