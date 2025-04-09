@@ -1,19 +1,22 @@
-### Hi there 👋
+### 👋 Hi, I'm Alexander Polyakov
 
-<!--
-**artwist-polyakov/artwist-polyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder of an advertising agency, web studio, and ad automation startup. Product manager who codes, analyzes campaigns, and implements technical solutions.
 
-Here are some ideas to get you started:
-dg
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Working with **Python**, **Swift**, **Kotlin**, **C++**, **YandexDataLens**, **ClickHouse**, and **RabbitMQ**. Building projects at the intersection of AI and business processes.
+
+🌟 Specializing in:
+- 📊 Traffic and sales analytics
+- 📱 Mobile app development
+- 🤖 AI implementation for business
+- 🔄 Business process automation (n8n, APIs)
+
+🔍 Currently developing an LLM-powered system for automated negative keyword processing in contextual advertising to eliminate wasted ad spend and improve campaign efficiency.
+
+🏡 Based in Sochi, Russia. Snowboarding enthusiast. Committed to writing code at least once a week.
+
+💬 Open to collaboration in AI integration, data analysis, and advertising campaign optimization.
+
+
 <table>
   <tr>
     <td width="50%">
@@ -25,6 +28,3 @@ dg
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artwist-polyakov&hide=jupyter%20notebook&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artwist-polyakov&count_private=true&show_icons=true&theme=radical)
