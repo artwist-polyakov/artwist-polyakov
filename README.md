@@ -43,7 +43,7 @@
 [![ohmyai.ru](https://img.shields.io/badge/🤖_AI_Education-ohmyai.ru-9146FF?style=flat-square)](https://ohmyai.ru)<br>
 
 
-
+<!--
 <table>
   <tr>
     <td width="50%">
@@ -54,4 +54,4 @@
     </td>
   </tr>
 </table>
-
+-->
