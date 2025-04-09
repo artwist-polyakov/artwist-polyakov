@@ -31,7 +31,7 @@
 
 🔍 Currently developing an **LLM-powered system for automated negative keyword processing** in contextual advertising to eliminate wasted ad spend and improve campaign efficiency.
 
-🏡 Based in Sochi, Russia. Snowboarding enthusiast. Committed to writing code at least once a week.
+🏡 Based in Sochi, Russia. Snowboarding enthusiast. More than **2000 days** streak of everyday reading.
 
 💬 Open to collaboration in AI integration, data analysis, and advertising campaign optimization.
 
