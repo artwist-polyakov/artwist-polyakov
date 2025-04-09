@@ -46,7 +46,7 @@
 
 [![Email](https://img.shields.io/badge/Email-artwist@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artwist@yandex.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@polyakovbest-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/polyakovbest)
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-Count_with_Sasha-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/countwithsasha)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-Поляков считает-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/countwithsasha)
 
 
 <!--
