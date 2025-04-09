@@ -26,16 +26,6 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-41B883?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 📂 Projects
-
-[![aaarrr.agency](https://img.shields.io/badge/🚀_Advertising_Agency-aaarrr.agency-FF4500?style=flat-square)](https://aaarrr.agency)
-
-[![artwist.ru](https://img.shields.io/badge/💻_Web_Studio-artwist.ru-4285F4?style=flat-square)](https://artwist.ru)
-
-[![zoomkit.ru](https://img.shields.io/badge/📊_AdTech_Startup-zoomkit.ru-00C853?style=flat-square)](https://zoomkit.ru)
-
-[![ohmyai.ru](https://img.shields.io/badge/🤖_AI_Education-ohmyai.ru-9146FF?style=flat-square)](https://ohmyai.ru)
-
 ## 🌟 Specializing in
 
 - 📊 Traffic and sales analytics at the intersection of advertising and CRM
@@ -48,6 +38,18 @@
 🏡 Based in Sochi, Russia. Snowboarding enthusiast. Committed to writing code at least once a week.
 
 💬 Open to collaboration in AI integration, data analysis, and advertising campaign optimization.
+
+## 📂 Projects
+
+[![aaarrr.agency](https://img.shields.io/badge/🚀_Advertising_Agency-aaarrr.agency-FF4500?style=flat-square)](https://aaarrr.agency)
+
+[![artwist.ru](https://img.shields.io/badge/💻_Web_Studio-artwist.ru-4285F4?style=flat-square)](https://artwist.ru)
+
+[![zoomkit.ru](https://img.shields.io/badge/📊_AdTech_Startup-zoomkit.ru-00C853?style=flat-square)](https://zoomkit.ru)
+
+[![ohmyai.ru](https://img.shields.io/badge/🤖_AI_Education-ohmyai.ru-9146FF?style=flat-square)](https://ohmyai.ru)
+
+
 
 <table>
   <tr>
