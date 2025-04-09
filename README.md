@@ -30,6 +30,14 @@
 
 💬 Open to collaboration in AI integration, data analysis, and advertising campaign optimization.
 
+## 📂 Projects
+
+[![Advertising Agency](https://img.shields.io/badge/Advertising_Agency-aaarrr.agency-FF4500?style=flat-square)](https://aaarrr.agency)
+[![Web Studio](https://img.shields.io/badge/Web_Studio-artwist.ru-4285F4?style=flat-square)](https://artwist.ru)
+[![AdTech Startup](https://img.shields.io/badge/AdTech_Startup-zoomkit.ru-00C853?style=flat-square)](https://zoomkit.ru)
+[![AI Education](https://img.shields.io/badge/AI_Education-ohmyai.ru-9146FF?style=flat-square)](https://ohmyai.ru)
+
+
 
 <table>
   <tr>
