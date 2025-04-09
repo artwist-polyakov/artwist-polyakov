@@ -37,10 +37,10 @@
 
 ## 📂 Projects
 
-[![aaarrr.agency](https://img.shields.io/badge/🚀_Advertising_Agency-aaarrr.agency-FF4500?style=flat-square)](https://aaarrr.agency)
-[![artwist.ru](https://img.shields.io/badge/💻_Web_Studio-artwist.ru-4285F4?style=flat-square)](https://artwist.ru)
-[![zoomkit.ru](https://img.shields.io/badge/📊_AdTech_Startup-zoomkit.ru-00C853?style=flat-square)](https://zoomkit.ru)
-[![ohmyai.ru](https://img.shields.io/badge/🤖_AI_Education-ohmyai.ru-9146FF?style=flat-square)](https://ohmyai.ru)
+[![aaarrr.agency](https://img.shields.io/badge/🚀_Advertising_Agency-aaarrr.agency-FF4500?style=flat-square)](https://aaarrr.agency)<br>
+[![artwist.ru](https://img.shields.io/badge/💻_Web_Studio-artwist.ru-4285F4?style=flat-square)](https://artwist.ru)<br>
+[![zoomkit.ru](https://img.shields.io/badge/📊_AdTech_Startup-zoomkit.ru-00C853?style=flat-square)](https://zoomkit.ru)<br>
+[![ohmyai.ru](https://img.shields.io/badge/🤖_AI_Education-ohmyai.ru-9146FF?style=flat-square)](https://ohmyai.ru)<br>
 
 
 
