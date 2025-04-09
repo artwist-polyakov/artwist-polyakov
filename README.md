@@ -42,6 +42,12 @@
 [![zoomkit.ru](https://img.shields.io/badge/📊_AdTech_Startup-zoomkit.ru-00C853?style=flat-square)](https://zoomkit.ru)<br>
 [![ohmyai.ru](https://img.shields.io/badge/🤖_AI_Education-ohmyai.ru-9146FF?style=flat-square)](https://ohmyai.ru)<br>
 
+## 📫 Connect with me
+
+[![Email](https://img.shields.io/badge/Email-artwist@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artwist@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@polyakovbest-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/polyakovbest)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-Count_with_Sasha-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/countwithsasha)
+
 
 <!--
 <table>
