@@ -2,19 +2,29 @@
 
 🚀 Founder of an advertising agency, web studio, and ad automation startup. Product manager who codes, analyzes campaigns, and implements technical solutions.
 
-💻 **Tech Stack**:
-- **Backend**: Python, C++, RabbitMQ, PostgreSQL
-- **Mobile**: Swift (iOS), Kotlin (Android)
-- **Analytics**: ClickHouse, Yandex DataLens, Data Pipelines
-- **Automation**: API Integrations, n8n, Custom Workflow Solutions
+## 🛠️ Tech Stack
 
-🌟 Specializing in:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+## 🌟 Specializing in
+
 - 📊 Traffic and sales analytics at the intersection of advertising and CRM
 - 📱 Mobile app development and cross-platform solutions
 - 🤖 AI implementation for business process optimization
 - 🔄 Marketing automation and data-driven decision making
 
-🔍 Currently developing an LLM-powered system for automated negative keyword processing in contextual advertising to eliminate wasted ad spend and improve campaign efficiency.
+🔍 Currently developing an **LLM-powered system for automated negative keyword processing** in contextual advertising to eliminate wasted ad spend and improve campaign efficiency.
 
 🏡 Based in Sochi, Russia. Snowboarding enthusiast. Committed to writing code at least once a week.
 
